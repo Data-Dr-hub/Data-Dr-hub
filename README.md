@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mastering technical concepts
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://twitter.com/obikoya11
+- Fun fact: My younger brother is taller than I am.
