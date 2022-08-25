@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my techical skills in data analysis
-- 🌱 I’m currently learning data analysis in the NG30 Days of learning
-- 👯 I’m looking to collaborate on enerything data analysis and visualization projects
-- 🤔 I’m looking for help with mastering technical concepts
-- 💬 Ask me about my learning journey
+- 🔭 I’m a Final Year Dental Student who found passion in tech and data 
+- 🤔 You can read about my journey [here](https://medium.com/@data_doctor/falling-in-love-with-tech-while-keeping-up-with-dental-school-and-now-a-data-doctor-3cc10191a9fa)
+- 👯 I’m looking to collaborate on everything data analysis projects
+- 💬 Let's talk data
+- 🌱 I’m currentlt looking through the beauty of Robotics Process Automation.
 - 📫 How to reach me: https://twitter.com/obikoya11
 - Fun fact: My younger brother is taller than I am.
