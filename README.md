@@ -1,7 +1,8 @@
 # Hi there 👋 You are welcome to the Data Dr Hub
+
 ## My name is Gbenga Obikoya, and I am the Data Doctor :blush:
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 
 - 🔭 I’m a self Driven Data Analyst with a string background in healthcare.
 - 🤔 I’m interested in data science, particularly analytics and its application to solving business problems.
